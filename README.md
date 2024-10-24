@@ -2,23 +2,23 @@
 
 This project implements a simple Pong game where the player controls paddles using hand gestures detected through a webcam. The game is developed using Python and OpenCV, along with the CVZone library for easier handling of hand gestures.
 
-**Features**
+### Features
 Hand gesture control: The position of the player's hands in the webcam feed controls the movement of the paddles.
 Real-time scoring: The score is updated in real-time as the player hits the ball with the paddles.
 Game over screen: When the game ends, a "Game Over" screen is displayed with the final score.
 
-**Prerequisites: **
+### Prerequisites:
 
 Ensure you have Python installed on your system.
 
-**Dependencies: **
+### Dependencies:
 
 Install OpenCV and CVZone libraries using pip:
 
 pip install opencv-python
 pip install cvzone
 
-**How to Play**
+### How to Play
 
 1- Launch the game by running the Python script.
 
@@ -32,7 +32,7 @@ pip install cvzone
 
 6-cPress 'q' to restart the game or 'r' to quit.
 
-**File Structure:**
+### File Structure:
 
 pong_game.py: The main Python script containing the game logic.
 
