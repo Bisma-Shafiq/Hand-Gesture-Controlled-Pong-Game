@@ -1,0 +1,4 @@
+Programming language:  python
+Libraries:  Open CV , Mediapipe , CV Zone , Numpy 
+
+Editor:   Pycharm
